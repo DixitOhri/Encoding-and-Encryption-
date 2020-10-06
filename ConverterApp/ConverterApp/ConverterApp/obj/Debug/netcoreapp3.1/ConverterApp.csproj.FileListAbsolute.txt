@@ -1,0 +1,13 @@
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.exe
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.deps.json
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.runtimeconfig.json
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.runtimeconfig.dev.json
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.dll
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.pdb
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.csprojAssemblyReference.cache
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.dll
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.pdb
+C:\Users\MY PC\Desktop\Dixit Projects\ConverterApp\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.genruntimeconfig.cache
